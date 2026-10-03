@@ -1,0 +1,44 @@
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+env/
+ENV/
+
+*.egg-info/
+build/
+dist/
+
+# --- C / C+ ---
+# Object / library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executable files
+*.exe
+*.out
+
+# --- IDE / EDITOR ---
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# TEMPORARY FILES
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~

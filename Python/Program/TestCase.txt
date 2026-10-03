@@ -1,0 +1,60 @@
+--- If choose Digital Artwork ---
+
+////// Test Case 1 //////
+4
+Dimas
+dimas@gmail.com
+104
+Poster event musik
+05-11-2026
+Minimalist
+20-10-2026
+300000
+1
+PNG
+1080x1350
+
+////// Test Case 2 //////
+5
+Fajar
+fajar@gmail.com
+105
+Ilustrasi karakter fantasy
+15-11-2026
+Anime
+25-10-2026
+400000
+1
+PSD
+3000x4000
+
+
+--- if choose Traditional Artwork ---
+
+////// Test Case 1 //////
+6
+Sinta
+sinta@gmail.com
+106
+Lukisan bunga
+10-11-2026
+Impressionist
+22-10-2026
+500000
+2
+Watercolor Paper
+A3
+
+////// Test case 2 //////
+7
+Maya
+maya@gmail.com
+107
+Lukisan pemandangan gunung
+18-11-2026
+Realistic
+27-10-2026
+600000
+2
+Watercolor Paper
+A3
