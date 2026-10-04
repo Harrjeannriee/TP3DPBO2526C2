@@ -1,0 +1,4 @@
+1|Andina|andina@gmail.com|101|Ilustrasi detektif Victorian|20-10-2026|Semi-realistic|10-10-2026|250000|Digital|PNG|1920x1080
+2|Raka|raka@gmail.com|102|Lukisan pemandangan kota|25-10-2026|Realistic|12-10-2026|350000|Digital|40x60 cm|Canvas
+4|Dimas|dimas@gmail.com|104|Poster event musik|05-11-2026|Minimalist|20-10-2026|300000|Digital|PNG|1080x1350
+6|Sinta|sinta@gmail.com|106|Lukisan bunga|10-11-2026|Impressionist|22-10-2026|500000|Digital|A3|Watercolor Paper
