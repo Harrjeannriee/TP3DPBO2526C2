@@ -21,6 +21,9 @@ dist/
 *.dll
 *.dylib
 
+# --- Java ---
+*.class
+
 # Executable files
 *.exe
 *.out

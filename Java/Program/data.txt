@@ -1,0 +1,4 @@
+1|Andina|andina@gmail.com|101|Ilustrasi detektif Victorian|20-10-2026|Semi-realistic|10-10-2026|250000|Digital|PNG|1920x1080
+2|Raka|raka@gmail.com|102|Lukisan pemandangan kota|25-10-2026|Realistic|12-10-2026|350000|Traditional|Canvas|40x60 cm
+3|Rahmah|rahmah@gmail.com|103|Kucing Bulu|11-17-2026|Anime2D|30-11-2026|75000|Digital|PNG|720x1080
+5|Siput|sssipt@gmail.com|105|Vanji|19-10-2026|Realis|20-10-2026|120000|Traditional|Canvas|20cm
