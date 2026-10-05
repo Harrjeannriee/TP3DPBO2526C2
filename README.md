@@ -94,7 +94,7 @@ Setelah itu, Artwork memiliki dua jenis turunan, yaitu DigitalArtwork dan Tradit
 DigitalArtwork memiliki FileFormat dan Resolution, sedangkan TraditionalArtwork memiliki Medium dan Size. Hubungan ini termasuk Hierarchical Inheritance karena satu parent class (Artwork) memiliki lebih dari satu child class.
 
 # Penjelasan Alur Program
-Alur program pada implementasi Python dan C++ secara umum adalah sebagai berikut:
+Alur program pada implementasi Python, C++, dan Java secara umum adalah sebagai berikut:
 1. Program dimulai.
 2. Program membaca data yang tersimpan pada data.txt.
 3. Data dari file digunakan untuk membentuk object Client, Commission, dan Artwork beserta hubungan antar-object.
